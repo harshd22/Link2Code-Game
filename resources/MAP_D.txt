@@ -1,0 +1,32 @@
+30
+30
+T T T T ND T T T T T T T T T T T T T T T T T T T T T T T T T
+T R R R G R R R N N N N N N R R R N N N N N N N N N N N N T
+T R F R G R F R N N N N N N R R R N N N N N N N N N N N N T
+T R R R G R R R N N N N N N F N F N N N N N N N N N N N N T
+T N N G G G N N N N N F N N N N N N N N R N N N N N N N N T
+T N N N N N N N N N N F N N N N N N N N N N N N N N N N N T
+T N N C N N B N B N N F N N N N N N N N N N N N N N N N N T
+T N N N N N N N N N N N N N N N N N R N N N N N N N N N G T
+T N N N N F N N N N N N N N N N N N B N N N N N N N N N G ED
+T N N N N N N N N N N T T N N N N N N N N B N N N N N N G T
+T N N N N N B N N N N N N N N N N N N N N N N N N N N N N T
+T N N N N N N N N F F F F N N N N N N N N N N R N N N N N T
+T N N N N N N N N F N N N N N N N N N N N N N N N N N N N T
+T N N N N N N N N F F F F N N N N N N N N B N N N N N N N T
+T N N N N N N N N N N N N N N N N N N N N N N N N N N N N T
+T N N N N N N N N N N N N N N N N N N N N N N R N N N N N T
+T N N N N B B N N R R N N N N N F F N N N N N N N N N N N T
+T N N N N N N N N N N N N N N N N N N N N N N N N N N N N T
+T N N N N N N N N N N N N N N N N N N N N N F F F N N N N T
+T N N N N N B N N N N N N N N N N N N N N N N R N N N N N T
+T N N N N N B N N N N N N N N N N N N N N N N R N N N N N T
+T N N N N N N N N N N N N N N N N N N N N N N N N N N N N T
+T N N R N N N N N N N N N N N N N N N N N N N N N N N G G T
+T T T R N N N N N N N N N N N N N N N N N N N N N N N R G T
+WD G G N N N N N N N N N N N N N N N N N N N N N N N N R G T
+T G G N N N N N N N N B R F N N N N N N N N N N N N N R G T
+T N N N N N N N N N N N N N N N N N N N N N N N N N N R G T
+T N N N N N N N N N N N N N N N N N N N N N N N N N N R G T
+T N N N N N N N N N N N N N N N N N N N N N N N N N N R G T
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T SD T

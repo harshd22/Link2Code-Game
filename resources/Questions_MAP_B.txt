@@ -1,0 +1,8 @@
+Can we enable assertion by -ea from command line?
+Yes
+What is the size of char data type in bytes (just the number)?
+2
+Which new feature of java 8 helps us in iterating easily ? stream/lambda/default method?
+Stream
+Would finally block work if an exception is thrown?
+Yes

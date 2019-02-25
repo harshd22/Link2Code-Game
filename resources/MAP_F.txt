@@ -1,0 +1,33 @@
+30
+30
+F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T
+T F B G G G G G G G G G G N N G N N G G G G G G G G G G F T
+T B B G G G G G G G G G G G G G G G G G G G G G G G G G G T
+T G G G G G G G G G G G G G G B G G G G G G G G G G G G G T
+T G G G G G G G G G G G G G G B G G G G G G G G G G G G G T
+T G G G G G G G G R G G G G F R F G G G G R G G B B G G G T
+T G G G G G G G G G R G G F R ND R F G G R G G G B B G G G T
+T G G G G G G G G G G R F R G G G R F R G G G G G G G G G T
+T G G G G G G G G G G F R G G G G G R F G G G G G G G G G T
+T G G G G G G G G G F R G G G G G G G R F G G G G G G G G T
+T G G G G G G G G G G F R G G G G G R F G G G G G G G G G T
+T G G G G G G G G G G R F R G G G R F R G G G G G G G G G T
+T G G G G G G G G G R G G R B G B R G G R G G G G G G G G T
+T G G G G G G G G R G G G G B G B G G G G R G G G G G G G T
+T G G G G G G G G G G G G G B G B G G G G G G G G G G G G T
+T G G G G G G G G G G G G G B G B G G G G G G G G R G R G T
+T G G G G G G G G G G G G B G T G B G G G G G G G R G G G ED
+T G G G G G G G G G G G B G G T G G B G G G G G R R R R R T
+T G G G G G G G G G G B G G T F T G G B G G G G G G G G G T
+T G G G G G G G G G B G G T F F F T G G B G G G G G G G G T
+T G G G G G G G G B G G T F F F F F T G G B G G G G G G G T
+T G G G G G G G B G G T G G G G G G G T G G B G G G G G G T
+T B G G G G G B G G T G G G G G G G G G T G G B G G G G G T
+T G G F G F B G G T G G G G G G G G G G G T G G B G G G G T
+T G G R G R G G G G G G G G G G G G G G G G G G G G G G G T
+T R R R G R G G G G G G G G G G G G G G G G G G G G G G G T
+T G G G G R G G G G G G G G G G G G G G G G G G G G G G C T
+T SD T T T T T T T T T T T T T T T T T T T T T T T T T T T T
+T F F F F F F F F F F F F F F F F F F F F F F F F F F C F T
+
